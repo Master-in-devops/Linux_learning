@@ -16,7 +16,7 @@ Instead of manually clicking through the AWS or Azure consoles, you write code (
 ---
 
 ## 🏗️ Architecture
-Terraform uses a **Plugin-based Architecture** to communicate with different platforms.
+Terraform uses a Plugin-based Architecture** to communicate with different platforms.
 
 
 
