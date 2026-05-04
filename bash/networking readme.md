@@ -2,7 +2,7 @@
 
 ---
 
-# 📌 1. IP Addressing
+# 📌 1. IP Addressing Detailes
 
 An **IP address** uniquely identifies a device on a network.
 
