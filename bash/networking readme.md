@@ -44,7 +44,7 @@ CIDR defines IP ranges using notation:
 
 # 📌 3. Subnets
 
-A **subnet** is a smaller network inside a larger network.
+A **subnet** is a smaller network inside a larger network
 
 ## Purpose
 
@@ -58,7 +58,7 @@ A **subnet** is a smaller network inside a larger network.
 
 Ports are logical endpoints for communication.
 
-## Common Ports
+## Common Ports using 
 
 * HTTP → 80
 * HTTPS → 443
