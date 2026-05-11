@@ -2,7 +2,7 @@
 
 ---
 
-# 📌 1. IP Addressing Detailes
+# 📌 1. IP Addressing Details
 
 An **IP address** uniquely identifies a device on a network.
 
@@ -13,7 +13,7 @@ An **IP address** uniquely identifies a device on a network.
 
 ## Categories
 
-* **Public IP** → Accessible over the internet
+* **Public IP** → Publicly accessible over the internet 
 * **Private IP** → Used within internal networks
 
 ## Private IP Ranges
